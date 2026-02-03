@@ -17,3 +17,6 @@ now let's know why there is so many default files
 5. asgi.py - lets django handle real-time and async features
 6. init.py tells that this folder is a package
 
+to run this projcet in a development server use 
+ py manage.py runserver
+
